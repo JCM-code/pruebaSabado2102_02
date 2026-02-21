@@ -33,3 +33,5 @@ file_put_contents($file, $line, FILE_APPEND | LOCK_EX);
 // Redirigir de vuelta a la página principal con indicador de éxito
 header('Location: index.html?success=1');
 exit;
+
+#ASDFASDF
