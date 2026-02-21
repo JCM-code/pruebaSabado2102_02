@@ -34,4 +34,4 @@ file_put_contents($file, $line, FILE_APPEND | LOCK_EX);
 header('Location: index.html?success=1');
 exit;
 
-#ASDFASDF
+#XXXXXXXXXXXXXXXXXXX
